@@ -61,8 +61,8 @@ você acabou de clonar!!
 *  <a href="https://github.com/DevGaaab"><img alt="GitHub" src="https://img.shields.io/badge/DevGaaab%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 *  <a href="https://github.com/Polux021"><img alt="GitHub" src="https://img.shields.io/badge/Polux021%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## Groupo
-* <a href="https://chat.whatsapp.com/DYvXuEkqiXZ0lTAe7uZzl1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## Grupo
+* <a href="https://chat.whatsapp.com/DYvXuEkqiXZ0lTAe7uZzl1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Donate
 * <a href="https://wa.me/+5511930758170"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
